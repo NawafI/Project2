@@ -1,0 +1,40 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.book-index{
+    background-color:rgb(183, 178, 189);
+    color: gold;
+}
+.book-index >a{
+    color: black;
+    
+    
+
+}
+.new {
+    background-color:burlywood;
+    color:blue;
+
+}
+
+.edit{
+    background-color: lightgray;
+}
+.ID{
+    background-color: lightsalmon;
+}
+.ID>a{
+    color: royalblue;
+}
+.author{
+    background-color: lightgray;
+}
+.author>a{
+    color:black;
+    font-size: large;
+
+}
+.authorID{
+    background-color: bisque;
+}
