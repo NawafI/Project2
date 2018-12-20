@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS book_collection;
-CREATE DATABASE book_collection;
-\c book_collection
+-- DROP DATABASE IF EXISTS book_collection;
+-- CREATE DATABASE book_collection;
+-- \c book_collection
 
 -- create tables here
 
